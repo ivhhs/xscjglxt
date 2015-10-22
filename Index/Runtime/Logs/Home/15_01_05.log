@@ -1,0 +1,623 @@
+[ 2015-01-05T08:37:16+08:00 ] 127.0.0.1 /think2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012361s ]
+
+[ 2015-01-05T08:37:28+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002834s ]
+
+[ 2015-01-05T08:37:34+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002770s ]
+
+[ 2015-01-05T08:50:54+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002048s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:50:55+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:51:22+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002109s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:51:24+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002493s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:51:24+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001603s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:51:27+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003054s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:51:59+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001879s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:00+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001868s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:01+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001880s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:01+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001947s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:02+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001999s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:02+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002502s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:03+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002029s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:03+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000533s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003305s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:03+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001883s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:04+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002142s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:04+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002517s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:04+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002156s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:05+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001926s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:05+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001603s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:05+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001567s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:05+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005165s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:05+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001683s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:06+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002040s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:07+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001856s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:52:08+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001917s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:53:59+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002127s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:53:59+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001852s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:47+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002461s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:47+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001836s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:48+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001705s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:48+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001868s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:49+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001832s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:49+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:49+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001885s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:49+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001832s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:50+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001811s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:50+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000460s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002252s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:51+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001841s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:51+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001826s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:52+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002045s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:52+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001667s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:52+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000220s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002016s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:53+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002087s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:53+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001699s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:53+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001614s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:53+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002002s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:53+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004032s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:54+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001951s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:54+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001743s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:54+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002497s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+
+[ 2015-01-05T08:54:54+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001993s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T08:54:55+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002037s ]
+
+[ 2015-01-05T08:54:57+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2015-01-05T08:55:20+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002034s ]
+
+[ 2015-01-05T09:03:38+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001892s ]
+
+[ 2015-01-05T09:03:38+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003531s ]
+
+[ 2015-01-05T09:11:42+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002386s ]
+
+[ 2015-01-05T09:12:34+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002036s ]
+
+[ 2015-01-05T09:48:29+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002367s ]
+
+[ 2015-01-05T09:48:31+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002459s ]
+
+[ 2015-01-05T09:48:45+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003407s ]
+
+[ 2015-01-05T10:27:41+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002356s ]
+
+[ 2015-01-05T10:27:45+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Alter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001977s ]
+
+[ 2015-01-05T10:27:53+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Alter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001972s ]
+
+[ 2015-01-05T10:28:38+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001735s ]
+
+[ 2015-01-05T10:28:39+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001838s ]
+
+[ 2015-01-05T10:29:35+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002177s ]
+
+[ 2015-01-05T10:29:39+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+
+[ 2015-01-05T10:58:30+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002141s ]
+
+[ 2015-01-05T10:59:05+08:00 ] 127.0.0.1 /think2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001880s ]
+
+[ 2015-01-05T11:01:24+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002075s ]
+
+[ 2015-01-05T11:01:31+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002085s ]
+
+[ 2015-01-05T11:01:36+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001870s ]
+
+[ 2015-01-05T11:01:52+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002321s ]
+
+[ 2015-01-05T11:01:52+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001894s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T11:02:20+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001939s ]
+
+[ 2015-01-05T11:02:20+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002058s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T11:03:00+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000982s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003224s ]
+
+[ 2015-01-05T11:03:06+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001871s ]
+
+[ 2015-01-05T11:03:06+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002622s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T11:03:20+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001853s ]
+
+[ 2015-01-05T11:03:20+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002014s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T11:03:58+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002396s ]
+
+[ 2015-01-05T11:03:59+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001731s ]
+
+[ 2015-01-05T11:04:03+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001977s ]
+
+[ 2015-01-05T11:36:02+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002113s ]
+
+[ 2015-01-05T11:36:39+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Store
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001907s ]
+
+[ 2015-01-05T11:38:59+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Alter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002115s ]
+
+[ 2015-01-05T11:44:25+08:00 ] 127.0.0.1 /think2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001952s ]
+
+[ 2015-01-05T11:44:58+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001875s ]
+
+[ 2015-01-05T11:45:03+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001850s ]
+
+[ 2015-01-05T11:45:48+08:00 ] 127.0.0.1 /think2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001915s ]
+
+[ 2015-01-05T11:45:54+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001834s ]
+
+[ 2015-01-05T11:46:27+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002582s ]
+
+[ 2015-01-05T11:46:29+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002762s ]
+
+[ 2015-01-05T11:48:40+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002476s ]
+
+[ 2015-01-05T11:48:41+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T11:48:49+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001843s ]
+
+[ 2015-01-05T11:48:49+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002212s ]
+ERR: 非法操作:style.css
+
+[ 2015-01-05T11:50:19+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001903s ]
+
+[ 2015-01-05T11:50:21+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001864s ]
+
+[ 2015-01-05T11:50:24+08:00 ] 127.0.0.1 /think2/index.php/Home/Grade/Query
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001884s ]
+
+[ 2015-01-05T11:55:17+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002448s ]
+
+[ 2015-01-05T11:55:19+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002093s ]
+
+[ 2015-01-05T11:55:38+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002028s ]
+
+[ 2015-01-05T11:55:49+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001892s ]
+
+[ 2015-01-05T11:55:51+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002230s ]
+
+[ 2015-01-05T11:55:54+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/HomePage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000190s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002674s ]
+
+[ 2015-01-05T11:55:56+08:00 ] 127.0.0.1 /think2/index.php/Home/Index/Alter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002031s ]
+

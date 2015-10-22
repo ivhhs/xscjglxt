@@ -1,0 +1,27 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>添加学生成绩</title>
+</head>
+<body>
+<h1> 请输入学号或者科目</h1>
+<form action="/think2/index.php/Home/Grade/Store" method="post">
+
+<label for="sno">学生学号:</label>
+<input type="text" name="sno">
+<br>
+<label for="cno">课程号:</label>
+<input type="text" name="cno">
+<br>
+<label for="grade">成绩： </label>
+<input type="text" name="grade">
+<br>
+<input type="submit" name = "确认增加">
+<br>
+</form>
+<p>
+ <a href="../Index/HomePage">返回首页</a>
+ </p>
+</body>
+</html>
